@@ -87,7 +87,7 @@ $dir = opendir("bases");
 listarArchivos( "bases",$cuantosarchivos,$archives ); 
 
 
-echo "hola";
+echo "hola, venga, vamos";
 ?>
 <!-- <br><br> -->
 <!-- <a href="crea.php"><button class="button">Crear base de datos</button></a> -->
